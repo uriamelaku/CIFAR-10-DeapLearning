@@ -22,7 +22,6 @@
 ### **2. Prepare the Data**
 1. Place the `train` dataset in the `raw_data/` folder.
 2. Navigate to the `Data_Preparation` directory and run it first by the numbers inside it.
-3. Run the scripts in the specified numerical order:
   
 
 #### DOCS
