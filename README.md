@@ -22,7 +22,10 @@
 ### **2. Prepare the Data**
 1. Place the `train` dataset in the `raw_data/` folder.
 2. Navigate to the `Data_Preparation` directory and run it first by the numbers inside it.
-  
+
+
+### **3. **
+Now you can run all the models.
 
 #### DOCS
 
