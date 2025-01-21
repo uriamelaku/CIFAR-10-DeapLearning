@@ -24,7 +24,7 @@
 2. Navigate to the `Data_Preparation` directory and run it first by the numbers inside it.
 
 
-### **3. **
+### 3. 
 Now you can run all the models.
 
 #### DOCS
